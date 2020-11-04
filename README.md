@@ -2,7 +2,7 @@
 I've created a portfolio using React, this project has allowed me to show my skills in becoming a full stack developer.
 
 ## Link
-![ReadME image](react-portfolio-screenshot.png)
+![](react-portfolio-screenshot.png)
 https://jwade1327.github.io/challenge-20-react-portfolio/
 
 ## Questions
