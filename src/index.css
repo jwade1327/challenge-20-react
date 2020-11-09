@@ -196,6 +196,12 @@ button {
   background-size: cover;
 }
 
+.the-makers-corner {
+  background-image: url("./assets/projects/maker\'s\ corner.PNG");
+  background-size: cover;
+  margin-left: 95px
+}
+
 .res-link {
   color: #191970;
   font-size: 22px
