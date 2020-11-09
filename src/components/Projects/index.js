@@ -28,6 +28,13 @@ const projects = [
         githubUrl: "https://github.com/jwade1327/project-two-campgrounds-inc",
         tech: "MySQL2/Express/Sequelize",
         style: "campground-inc"
+    },
+    {
+        name: "The Maker's Corner",
+        liveUrl: "https://tranquil-dusk-14791.herokuapp.com/",
+        githubUrl: "https://github.com/jwade1327/project-3-the-makers-corner",
+        tech: "React/GraphQL API/Node.js/Express.js/MongoDB/Mongoose ODM",
+        style: "the-makers-corner"
     }
 ]
 
